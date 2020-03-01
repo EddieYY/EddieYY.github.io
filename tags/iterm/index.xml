@@ -18,7 +18,7 @@
       
       <guid>https://Eddieyy.github.io/posts/2020/02/terminal/</guid>
       <description>Command Line - Terminal 紀錄一下基本 CMD (Commnad Line) 常用指令：
-   Windows Mac/Linux Memo     cd pwd 印出目前所在位置 (Print Working Directory)   dir ls/ls -al/ls -al -t 印出目前檔案列表/列出更詳細的資訊(包括隱藏檔案)   cd cd/cd ../ cd ~ 切換當前資料夾 (Change Directory)   ?? man man + 指令 &amp;ndash;&amp;gt; 說明如何和使用   cls clear 清空目前頁面    </description>
+   Windows Mac/Linux Memo     cd pwd 印出目前所在位置 (Print Working Directory)   dir ls/ls -al/ls -al -t 印出目前檔案列表/列出更詳細的資訊(包括隱藏檔案)   cd cd/cd ../ cd ~ 切換當前資料夾 (Change Directory)   ?? man man + 指令 &amp;ndash;&amp;gt; 說明如何和使用   cls clear 清空目前頁面   ?? touch Create a file or update the file to new time    </description>
     </item>
     
   </channel>
